@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @innovatorved
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Deep learning
+- 🌱 I’m currently learning ____________
 - 📫 How to reach me vedgupta@protonmail.com
 
 ```python
@@ -21,3 +21,9 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
 
 ```
 
+<center>
+	
+[![Ved Gupta GitHub stats](https://github-readme-stats.vercel.app/api?username=innovatorved&show_icons=true&theme=cobalt)](https://github.com/innovatorved/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innovatorved&layout=compact&theme=cobalt)](https://github.com/innovatorved/)
+	
+</center>
