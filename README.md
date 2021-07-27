@@ -26,15 +26,11 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
 	
   <img align="left" alt="innovatorved GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=innovatorved&show_icons=true&theme=cobalt&hide_border=true" />
 </details>
-
+<br>
 <details>
 
   <summary>:zap: Language used</summary>
   <br>	
   <img align="left" alt="innovatorved" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatorved&layout=compact&theme=cobalt&hide_border=true" />
 </details>
-
-[twitter]: https://twitter.com/innovatorved
-[youtube]: https://youtube.com/innovatorved
-[instagram]: https://instagram.com/innovatorved
-[linkedin]: https://linkedin.com/in/innovatorved
+<br>
