@@ -24,7 +24,7 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
 	
   <summary>:zap: Ved Gupta GitHub Stats</summary>
 	
-  <img align="right" alt="innovatorved GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=innovatorved&show_icons=true&theme=cobalt&hide_border=true" />
+  <img align="left" alt="innovatorved GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=innovatorved&show_icons=true&theme=cobalt&hide_border=true" />
 </details>
 
 <details>
