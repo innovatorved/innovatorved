@@ -24,5 +24,5 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
   <summary>:zap: Ved Gupta GitHub Stats & Language used</summary>
   <br>
   <img align="left" alt="innovatorved GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=innovatorved&show_icons=true&theme=cobalt&hide_border=true" /><br>
-  <img align="right" alt="innovatorved" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatorved&layout=compact&theme=cobalt&hide_border=true" /><br>
+  <img align="left" alt="innovatorved" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatorved&layout=compact&theme=cobalt&hide_border=true" /><br>
 </details>
