@@ -12,7 +12,7 @@ __license__ = "Private Domain"
 __version__ = "19.0"
 
 import subprocess
-res = subprocess.run(["python3" , "-c" , "print('Never take me lightly\nI am Coming')"],
+res = subprocess.run(["python3" , "-c" , "print('Feel the Code not Write it')"],
 		capture_output=True, text=True
 		)
         
