@@ -27,6 +27,7 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
   <img align="left" alt="innovatorved" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatorved&layout=compact&theme=cobalt&hide_border=true" /><br>
 </details>
 
+
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
