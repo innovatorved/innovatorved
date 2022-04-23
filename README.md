@@ -9,7 +9,7 @@
 __author__ = "Ved Prakash Gupta"
 __copyright__ = f"Copyright (c) 2002 {__author__}"
 __license__ = "Private Domain"
-__version__ = "19.0"
+__version__ = "20.3"
 
 import subprocess
 res = subprocess.run(["python3" , "-c" , "print('Feel the Code not Write it')"],
