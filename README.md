@@ -2,7 +2,7 @@ Hello there! 👋
 
 I'm @innovatorved, and I'm a Full Stack Developer with a strong passion for learning new things. I believe that the world of technology is constantly evolving, and I'm always striving to expand my knowledge and skills.
 
-In addition to being a Full Stack Developer, I'm also exploring a variety of other topics to broaden my horizons. My interests include data science, artificial intelligence, web development, and more!
+In addition to being a Full Stack Developer, I'm also exploring a variety of other topics to broaden my horizons. My interests include web development, artificial intelligence and more!
 
 Feel free to reach out to me at vedgupta@protonmail.com if you'd like to connect or collaborate.
 
