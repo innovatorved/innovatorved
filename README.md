@@ -33,5 +33,5 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
   <img align="left" alt="innovatorved GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=innovatorved&show_icons=true&theme=cobalt&hide_border=true" /><br>
 </details>
 
-<img height="70px" src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,nextjs,bash,flask,git,github,graphql,aws,gcp,cloudflare,docker,firebase,githubactions,go,mongodb,mysql,planetscale,prisma,tailwind,vscode" />
+<img height="70px" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,javascript,typescript,python,bash,flask,git,github,graphql,aws,gcp,cloudflare,docker,firebase,githubactions,go,mongodb,mysql,planetscale,prisma,tailwind,vscode" />
 
