@@ -1,9 +1,8 @@
 <p align="center">
 <a href="https://github.com/innovatorved/innovatorved">
-    <img height="80" src="https://readme-typing-svg.demolab.com?font=Delius&size=15&duration=2000&pause=100&multiline=true&width=600&height=80&color=247d89&lines=Hello there! 👋;I'm @innovatorved;Full Stack Developer | MERN Stack Developer | React Developer | Python Developer;" alt="Typing SVG" />
+    <img height="80" src="https://readme-typing-svg.demolab.com?font=Delius&size=17&duration=2000&pause=100&multiline=true&width=600&height=80&color=247d89&lines=Hello there! 👋;I'm @innovatorved;Full Stack Developer | MERN Stack Developer | React Developer | Python Developer;" alt="Typing SVG" />
 </a>
-<br/>
-
+</p>
 I'm @innovatorved, and I'm a Full Stack Developer with a strong passion for learning new things. I believe that the world of technology is constantly evolving, and I'm always striving to expand my knowledge and skills.
 
 In addition to being a Full Stack Developer, I'm also exploring a variety of other topics to broaden my horizons. My interests include web development, artificial intelligence and more!
@@ -22,17 +21,17 @@ import subprocess
 res = subprocess.run(["python3" , "-c" , "print('Feel the Code not Write it')"],
 		capture_output=True, text=True
 		)
-        
+
 print("stdout:", res.stdout)	# Output
 if res.stderr != "" : print("stderr:", res.stderr)	# Error
 
 ```
+
 <details>
   <summary>:zap: Ved Gupta GitHub Stats & Language used</summary>
   <br>
   <img align="left" alt="innovatorved GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=innovatorved&show_icons=true&theme=cobalt&hide_border=true" /><br>
 </details>
-
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
