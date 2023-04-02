@@ -31,7 +31,6 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
   <summary>:zap: Ved Gupta GitHub Stats & Language used</summary>
   <br>
   <img align="left" alt="innovatorved GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=innovatorved&show_icons=true&theme=cobalt&hide_border=true" /><br>
-  <img align="left" alt="innovatorved" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatorved&layout=compact&theme=cobalt&hide_border=true" /><br>
 </details>
 
 
@@ -62,4 +61,3 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
-![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?logo=gitpod&logoColor=white&style=for-the-badge)
