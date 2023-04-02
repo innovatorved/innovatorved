@@ -1,4 +1,8 @@
-Hello there! 👋
+<p align="center">
+<a href="https://github.com/innovatorved/innovatorved">
+    <img height="80" src="https://readme-typing-svg.demolab.com?font=Delius&size=15&duration=2000&pause=100&multiline=true&width=600&height=80&color=247d89&lines=Hello there! 👋;I'm @innovatorved;Full Stack Developer | MERN Stack Developer | React Developer | Python Developer;" alt="Typing SVG" />
+</a>
+<br/>
 
 I'm @innovatorved, and I'm a Full Stack Developer with a strong passion for learning new things. I believe that the world of technology is constantly evolving, and I'm always striving to expand my knowledge and skills.
 
