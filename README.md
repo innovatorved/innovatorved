@@ -1,6 +1,6 @@
 Hello there! 👋
 
-I'm @innovatorved; Full Stack Developer | MERN Stack Developer | React Developer | Python Developer;
+I'm @innovatorved; Full Stack Developer | React Developer | Python Developer | Cloud Developer;
 
 I'm a Full Stack Developer with a strong passion for learning new things. I believe that the world of technology is constantly evolving, and I'm always striving to expand my knowledge and skills.
 
