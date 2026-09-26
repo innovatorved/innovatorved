@@ -1,6 +1,6 @@
 Hello there! 👋
 
-I'm **Ved Prakash Gupta** ([@innovatorved](https://vedgupta.in))  
+I'm **Ved Gupta** ([@innovatorved](https://vedgupta.in))  
 **Cloud Engineer | Full Stack & Generative AI | Azure & Google Cloud Certified**
 
 > Open to Cloud Engineering, DevOps, Full Stack, and Generative AI roles — let's talk.
