@@ -1,0 +1,17 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='140' height='140' viewBox='0 0 140 140'>
+  <defs>
+    <radialGradient id='r1' cx='50%' cy='50%' r='70%'>
+      <stop stop-color='#38bdf8' offset='0%'/>
+      <stop stop-color='#0ea5e9' offset='50%'/>
+      <stop stop-color='#0369a1' offset='100%'/>
+    </radialGradient>
+  </defs>
+  <rect rx='16' ry='16' x='4' y='4' width='132' height='132' fill='url(#r1)'/>
+  <g fill='none' stroke='#fff' stroke-width='3'>
+    <ellipse cx='70' cy='70' rx='32' ry='20'/>
+    <ellipse cx='70' cy='70' rx='32' ry='20' transform='rotate(60 70 70)'/>
+    <ellipse cx='70' cy='70' rx='32' ry='20' transform='rotate(120 70 70)'/>
+    <circle cx='70' cy='70' r='5' fill='#fff' stroke='none'/>
+  </g>
+  <text x='70' y='120' font-family='sans-serif' font-size='11' fill='#e0f2fe' text-anchor='middle' font-weight='600'>React</text>
+</svg>
