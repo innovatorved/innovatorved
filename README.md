@@ -3,7 +3,7 @@ Hello there! 👋
 I'm **Ved Gupta** ([@innovatorved](https://vedgupta.in))  
 **Cloud Engineer | Full Stack & Generative AI | Azure & Google Cloud Certified**
 
-> Open to Cloud Engineering, DevOps, Full Stack, and Generative AI roles — let's talk.
+> Open to Cloud Engineering, DevOps, Full Stack, and Generative AI roles. let's talk.
 
 I started as a freelancer, writing applications with React, Next.js, JavaScript, and TypeScript, then grew into DevOps practices, containerizing with Docker and orchestrating with Kubernetes to ship applications reliably at scale.
 
